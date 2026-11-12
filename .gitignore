@@ -1,0 +1,17 @@
+﻿# Entornos virtuales
+.venv/
+venv/
+
+# Datos originales y procesados
+Data/
+Notebooks/online_retail_etl.csv
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Configuraciones locales
+.env

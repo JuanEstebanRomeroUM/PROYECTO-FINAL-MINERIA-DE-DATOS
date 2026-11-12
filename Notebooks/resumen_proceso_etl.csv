@@ -1,0 +1,14 @@
+﻿Indicador,Cantidad
+Registros iniciales,1067371
+Registros después de eliminar duplicados,1055238
+Duplicados eliminados,12133
+Descripciones recuperadas,4019
+Descripciones faltantes restantes,363
+Clientes sin identificación,242870
+Facturas canceladas (registros),19433
+Cantidades negativas,22889
+Precios negativos,5
+Precios iguales a cero,6191
+Compras válidas,1029609
+Registros no considerados compras válidas,25629
+Registros finales,1055238
